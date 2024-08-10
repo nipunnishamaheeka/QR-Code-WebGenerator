@@ -20,6 +20,6 @@ The QR Code Generator is a web application built using HTML, CSS, and JavaScript
 
 ## Screenshots
 
-(https://github.com/nipunnishamaheeka/QR-Code-WebGenerator/assets/115369622/3553aa2a-3f2d-486c-91d4-ef8d8ae8549d)
+(https://github.com/nipunnishamaheeka/QR-Code-WebGenerator/blob/main/QR%20ScannerImg.png)
 
 
